@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0979869,
+          44.6952006
+        ]
+      },
+      "properties": {
+        "name": "Trattoria I Corrieri",
+        "description": "Consigliato da Matilde. Bob: mi piace, sembra rustico come piace a me\n[[https://maps.google.com/?q=44.6952006,10.0979869|🧭 Naviga]]",
+        "address": "Trattoria I Corrieri, Parma, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.324592,
+          44.8030274
+        ]
+      },
+      "properties": {
+        "name": "Osteria dei Servi",
+        "description": "Consigliato da Matilde. Bob: a bomba\n[[https://maps.google.com/?q=44.8030274,10.324592|🧭 Naviga]]",
+        "address": "Osteria dei Servi, Parma, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9703025,
+          44.8164586
+        ]
+      },
+      "properties": {
+        "name": "Enoteca Fontana",
+        "description": "Consigliato da Andrea: apero in Via Farini, un'istituzione (ci sono stati con Anita)\n[[https://maps.google.com/?q=44.8164586,9.9703025|🧭 Naviga]]",
+        "address": "Enoteca Fontana, Via Farini, Parma, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9703025,
+          44.8164586
+        ]
+      },
+      "properties": {
+        "name": "Enoteca il Tabarro",
+        "description": "Consigliato da Andrea: apero in Via Farini, vicino a Fontana\n[[https://maps.google.com/?q=44.8164586,9.9703025|🧭 Naviga]]",
+        "address": "Enoteca il Tabarro, Via Farini, Parma, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3305371,
+          44.7201928
+        ]
+      },
+      "properties": {
+        "name": "Trattoria del Grillo",
+        "description": "Consigliato da Andrea\n[[https://maps.google.com/?q=44.7201928,10.3305371|🧭 Naviga]]",
+        "address": "Trattoria del Grillo, Parma, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2366977,
+          44.6674494
+        ]
+      },
+      "properties": {
+        "name": "Antica Trattoria Leoni",
+        "description": "Consigliato da Andrea\n[[https://maps.google.com/?q=44.6674494,10.2366977|🧭 Naviga]]",
+        "address": "Antica Trattoria Leoni, Parma, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1428026,
+          44.8424095
+        ]
+      },
+      "properties": {
+        "name": "La Culatelleria",
+        "description": "CONSENSO Costanza + Matilde. Bob: da andarci. Culatello\n[[https://culatelleria.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.8424095,10.1428026|🧭 Naviga]]",
+        "address": "Sanguinaro di Fontanellato, Italy",
+        "url": "https://culatelleria.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3029207,
+          44.6193205
+        ]
+      },
+      "properties": {
+        "name": "Agriturismo Corte di Camillo",
+        "description": "Consigliato da Andrea. Bob: a bomba assolutamente. Super territoriale, si mangia quello che danno, rivenditore di Camillo Donati\n[[https://maps.google.com/?q=44.6193205,10.3029207|🧭 Naviga]]",
+        "address": "Lesignano de' Bagni, Parma, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1229945,
+          44.6007
+        ]
+      },
+      "properties": {
+        "name": "Albergo Ristorante Fontana",
+        "description": "Consigliato da Andrea (nel caso). Pizza al tartufo (a Calestano crescono i tartufi)\n[[https://maps.google.com/?q=44.6007,10.1229945|🧭 Naviga]]",
+        "address": "Calestano, Parma, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1511684,
+          44.5868065
+        ]
+      },
+      "properties": {
+        "name": "Locanda Mariella",
+        "description": "Consigliato da Andrea (nel caso). Uno dei migliori ristoranti, prenotare con mesi di anticipo\n[[https://maps.google.com/?q=44.5868065,10.1511684|🧭 Naviga]]",
+        "address": "Locanda Mariella, Fragno, Calestano PR, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9877337,
+          44.4326123
+        ]
+      },
+      "properties": {
+        "name": "Franceschetta58",
+        "description": "Consigliato da Costanza (provato). Bistrot di Massimo Bottura\n[[https://franceschetta.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.4326123,10.9877337|🧭 Naviga]]",
+        "address": "Franceschetta 58, Via Vignolese 58, Modena, Italy",
+        "url": "https://franceschetta.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.927788,
+          44.6483232
+        ]
+      },
+      "properties": {
+        "name": "Zemian piccola osteria",
+        "description": "Consigliato da Costanza. Centro Modena\n[[https://www.instagram.com/zemian_modena/|🔗 Link]]\n[[https://maps.google.com/?q=44.6483232,10.927788|🧭 Naviga]]",
+        "address": "Zemian, Modena, Italy",
+        "url": "https://www.instagram.com/zemian_modena/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9275216,
+          44.6476431
+        ]
+      },
+      "properties": {
+        "name": "Ristorante da Danilo",
+        "description": "Consigliato da Costanza. Centro Modena\n[[https://www.ristorantedadanilomodena.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.6476431,10.9275216|🧭 Naviga]]",
+        "address": "Ristorante da Danilo, Modena, Italy",
+        "url": "https://www.ristorantedadanilomodena.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9241482,
+          44.6492886
+        ]
+      },
+      "properties": {
+        "name": "Trattoria Pomposa",
+        "description": "Consigliato da Costanza. Centro Modena\n[[https://trattoriapomposa.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.6492886,10.9241482|🧭 Naviga]]",
+        "address": "Trattoria Pomposa, Modena, Italy",
+        "url": "https://trattoriapomposa.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9409013,
+          44.6567599
+        ]
+      },
+      "properties": {
+        "name": "Al Boschetto da Loris",
+        "description": "Consigliato da Costanza. Fuori centro ma vicino\n[[https://www.instagram.com/alboschettodaloris/|🔗 Link]]\n[[https://maps.google.com/?q=44.6567599,10.9409013|🧭 Naviga]]",
+        "address": "Al Boschetto da Loris, Modena, Italy",
+        "url": "https://www.instagram.com/alboschettodaloris/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9357767,
+          44.6548086
+        ]
+      },
+      "properties": {
+        "name": "Trattoria Bianca",
+        "description": "Consigliato da Costanza. Prezzi un po' piu alti\n[[https://www.trattoriabianca.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.6548086,10.9357767|🧭 Naviga]]",
+        "address": "Trattoria Bianca, Modena, Italy",
+        "url": "https://www.trattoriabianca.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9216721,
+          44.6478622
+        ]
+      },
+      "properties": {
+        "name": "Cucina del Museo",
+        "description": "Consigliato da Costanza. Prezzi un po' piu alti\n[[https://cucinadelmuseo.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.6478622,10.9216721|🧭 Naviga]]",
+        "address": "Cucina del Museo, Modena, Italy",
+        "url": "https://cucinadelmuseo.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359609,
+          44.5384728
+        ]
+      },
+      "properties": {
+        "name": "Osteria Sa Ghe",
+        "description": "Aperitivo centro Modena (ricerca web)\n[[https://maps.google.com/?q=44.5384728,10.9359609|🧭 Naviga]]",
+        "address": "Osteria Sa Ghe, Modena, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.925389,
+          44.645033
+        ]
+      },
+      "properties": {
+        "name": "Bar Schiavoni",
+        "description": "Aperitivo centro (ricerca web): panino al cotechino\n[[https://maps.google.com/?q=44.645033,10.925389|🧭 Naviga]]",
+        "address": "Bar Schiavoni, Via Albinelli, Modena, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8663607,
+          44.5255217
+        ]
+      },
+      "properties": {
+        "name": "Ristorante Montana (Maranello)",
+        "description": "Consigliato da Costanza (provato, con Stefano Lai)\n[[https://ristorantemontana.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.5255217,10.8663607|🧭 Naviga]]",
+        "address": "Ristorante Montana, Maranello, Italy",
+        "url": "https://ristorantemontana.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8663607,
+          44.5255217
+        ]
+      },
+      "properties": {
+        "name": "Ristorante Da Pasticcino (Maranello)",
+        "description": "Consigliato da Costanza\n[[https://www.ristorantedapasticcino.com/|🔗 Link]]\n[[https://maps.google.com/?q=44.5255217,10.8663607|🧭 Naviga]]",
+        "address": "Ristorante Da Pasticcino, Maranello, Italy",
+        "url": "https://www.ristorantedapasticcino.com/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8470277,
+          44.5751432
+        ]
+      },
+      "properties": {
+        "name": "Il Calcagnino (Formigine)",
+        "description": "Consigliato da Costanza\n[[https://www.ilcalcagnino.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.5751432,10.8470277|🧭 Naviga]]",
+        "address": "Il Calcagnino, Formigine, Italy",
+        "url": "https://www.ilcalcagnino.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3502248,
+          44.4914476
+        ]
+      },
+      "properties": {
+        "name": "La Tua Piadina (Bologna)",
+        "description": "Piadineria storica del centro, 6 tipi d'impasto (ricerca web)\n[[https://maps.google.com/?q=44.4914476,11.3502248|🧭 Naviga]]",
+        "address": "Via Borgonuovo 17/A, Bologna, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3453131,
+          44.494154
+        ]
+      },
+      "properties": {
+        "name": "Piadineria la Piadeina (Bologna)",
+        "description": "Piadineria centro, vicino alle Due Torri, per molti la migliore di Bologna (ricerca web)\n[[https://maps.google.com/?q=44.494154,11.3453131|🧭 Naviga]]",
+        "address": "Via Calzolerie 1/C, Bologna, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3665844,
+          44.4893437
+        ]
+      },
+      "properties": {
+        "name": "Savor piadineria (Bologna)",
+        "description": "Piadina tradizione + opzioni vegan/integrali (ricerca web)\n[[https://maps.google.com/?q=44.4893437,11.3665844|🧭 Naviga]]",
+        "address": "Via Filippo Schiassi 2/E, Bologna, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    }
+  ]
+}

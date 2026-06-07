@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2219241,
+          44.6757914
+        ]
+      },
+      "properties": {
+        "name": "Agriturismo Al Vigneto",
+        "description": "Proposto da Elena. PRENOTATO lun 01/06 + cena (check-in dalle 18:00). Sui colli di Parma, sulla Strada del Prosciutto e dei Vini. Cena in agriturismo per non rimettersi a guidare\n[[https://maps.google.com/?q=44.6757914,10.2219241|🧭 Naviga]]",
+        "address": "Via Don Massimino Nevi 6, 43035 Felino PR, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.944039,
+          44.5027438
+        ]
+      },
+      "properties": {
+        "name": "Little Home Italy (candidato)",
+        "description": "Candidato notte mar 02/06. Appartamento ~120 euro, 1 cam + cucina, A/C, parcheggio. In cluster colli di Modena (Opera 02, Chiarli, borgo Castelvetro)\n[[https://www.airbnb.com/rooms/1289843487552402437|🔗 Link]]\n[[https://maps.google.com/?q=44.5027438,10.944039|🧭 Naviga]]",
+        "address": "Via XX Settembre 15, 41014 Castelvetro di Modena MO, Italy",
+        "url": "https://www.airbnb.com/rooms/1289843487552402437",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359609,
+          44.5384728
+        ]
+      },
+      "properties": {
+        "name": "Agriturismo e Acetaia La Vedetta (candidato)",
+        "description": "Candidato notte mar 02/06. Agriturismo + acetaia (si dorme da un produttore di balsamico), ~123 CHF/notte. Colli di Modena\n[[https://www.agriturismo.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.5384728,10.9359609|🧭 Naviga]]",
+        "address": "Agriturismo Acetaia La Vedetta, Modena, Italy",
+        "url": "https://www.agriturismo.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3945892,
+          44.7287029
+        ]
+      },
+      "properties": {
+        "name": "Terme di Monticelli",
+        "description": "SCELTA consigliata. Percorso Terme e Benessere 88 euro/p (mar-ven) incl. massaggio 20 min. Aperto 10-19, prenotazione 0521 657425. ~15 min da Parma\n[[https://termedimonticelli.it/piscine-termali/percorsi-giornalieri/percorso-terme-e-benessere/|🔗 Link]]\n[[https://maps.google.com/?q=44.7287029,10.3945892|🧭 Naviga]]",
+        "address": "Terme di Monticelli, Montechiarugolo, Parma, Italy",
+        "url": "https://termedimonticelli.it/piscine-termali/percorsi-giornalieri/percorso-terme-e-benessere/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9798378,
+          44.8161286
+        ]
+      },
+      "properties": {
+        "name": "Terme Berzieri (Salsomaggiore)",
+        "description": "Day-spa nel palazzo Liberty del 1923 (NON in un castello). Storiche/eleganti, zona Parma. I castelli (Tabiano, Scipione) sono attrazioni a parte\n[[https://spa.termedisalsomaggiore.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.8161286,9.9798378|🧭 Naviga]]",
+        "address": "Terme Berzieri, Salsomaggiore Terme PR, Italy",
+        "url": "https://spa.termedisalsomaggiore.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7680679,
+          44.5193711
+        ]
+      },
+      "properties": {
+        "name": "Terme della Salvarola",
+        "description": "Percorsi benessere anche di coppia (zona Modena)\n[[https://maps.google.com/?q=44.5193711,10.7680679|🧭 Naviga]]",
+        "address": "Terme della Salvarola, Sassuolo, Modena, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0877775,
+          44.7263663
+        ]
+      },
+      "properties": {
+        "name": "Terme di Sant'Andrea",
+        "description": "Piu terapeutiche (colline parmensi)\n[[https://maps.google.com/?q=44.7263663,10.0877775|🧭 Naviga]]",
+        "address": "Terme di Sant'Andrea Bagni, Medesano PR, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6046911,
+          45.49493
+        ]
+      },
+      "properties": {
+        "name": "Aquaria - Terme di Sirmione",
+        "description": "Scenografica sul Garda. Solo se quel giorno sei piu a nord (fuori rotta Emilia)\n[[https://maps.google.com/?q=45.49493,10.6046911|🧭 Naviga]]",
+        "address": "Aquaria Terme, Sirmione, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    }
+  ]
+}

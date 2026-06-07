@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3265414,
+          44.8049677
+        ]
+      },
+      "properties": {
+        "name": "Teatro Farnese (Pilotta)",
+        "description": "Consigliato da Andrea e Matilde. Teatro ligneo 1618; nella Pilotta anche Galleria Nazionale e Biblioteca Palatina\n[[https://maps.app.goo.gl/Wg59kJojkNXMtLMa8|🔗 Link]]\n[[https://maps.google.com/?q=44.8049677,10.3265414|🧭 Naviga]]",
+        "address": "Piazza della Pilotta 15, 43121 Parma PR, Italy",
+        "url": "https://maps.app.goo.gl/Wg59kJojkNXMtLMa8",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3304963,
+          44.8034371
+        ]
+      },
+      "properties": {
+        "name": "Duomo e Battistero di Parma",
+        "description": "Consigliato da Matilde: centro storico e duomo\n[[https://maps.google.com/?q=44.8034371,10.3304963|🧭 Naviga]]",
+        "address": "Piazza Duomo, 43121 Parma PR, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3191403,
+          44.8065584
+        ]
+      },
+      "properties": {
+        "name": "Parco Ducale",
+        "description": "Consigliato da Matilde: molto bello per una passeggiata\n[[https://maps.google.com/?q=44.8065584,10.3191403|🧭 Naviga]]",
+        "address": "Parco Ducale, Parma PR, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.144764,
+          44.8579137
+        ]
+      },
+      "properties": {
+        "name": "Labirinto della Masone",
+        "description": "Consigliato da Andrea. Bob: mi piacerebbe passarci. Labirinto di bambu + museo F.M. Ricci\n[[https://www.labirintodifrancomariaricci.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.8579137,10.144764|🧭 Naviga]]",
+        "address": "Strada Masone 121, 43012 Fontanellato PR, Italy",
+        "url": "https://www.labirintodifrancomariaricci.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1728407,
+          44.882696
+        ]
+      },
+      "properties": {
+        "name": "Rocca Sanvitale",
+        "description": "Bob: salviamo (Fontanellato = la Rocca col fossato in mezzo al paese, + Labirinto vicino)\n[[https://maps.google.com/?q=44.882696,10.1728407|🧭 Naviga]]",
+        "address": "Rocca Sanvitale, Fontanellato PR, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2733767,
+          44.6553965
+        ]
+      },
+      "properties": {
+        "name": "Castello di Torrechiara",
+        "description": "Consigliato da Andrea. Bob: sembra molto figo. Nelle colline del prosciutto\n[[https://maps.google.com/?q=44.6553965,10.2733767|🧭 Naviga]]",
+        "address": "Castello di Torrechiara, Langhirano PR, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3767324,
+          44.9303619
+        ]
+      },
+      "properties": {
+        "name": "Reggia di Colorno",
+        "description": "Consigliato da Andrea. Bob: sembra carina. ~15 min a N di Parma\n[[https://maps.google.com/?q=44.9303619,10.3767324|🧭 Naviga]]",
+        "address": "Reggia di Colorno, Colorno PR, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9256171,
+          44.6459433
+        ]
+      },
+      "properties": {
+        "name": "Piazza Grande + Duomo + Ghirlandina",
+        "description": "Trio UNESCO. Salita Ghirlandina ~3 euro. In Piazza Grande anche l'Acetaia Comunale (Felipe)\n[[https://maps.google.com/?q=44.6459433,10.9256171|🧭 Naviga]]",
+        "address": "Piazza Grande, Modena, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9255102,
+          44.6448252
+        ]
+      },
+      "properties": {
+        "name": "Mercato Albinelli",
+        "description": "Mercato coperto storico: banchi tipici + posti per pranzo/aperitivo\n[[https://maps.google.com/?q=44.6448252,10.9255102|🧭 Naviga]]",
+        "address": "Mercato Albinelli, Modena, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9432999,
+          44.5034615
+        ]
+      },
+      "properties": {
+        "name": "Castelvetro di Modena (borgo)",
+        "description": "Zona Costanza: borgo sui colli del Lambrusco Grasparossa\n[[https://maps.google.com/?q=44.5034615,10.9432999|🧭 Naviga]]",
+        "address": "Castelvetro di Modena, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8610977,
+          44.5301089
+        ]
+      },
+      "properties": {
+        "name": "Museo Ferrari (Maranello)",
+        "description": "Consigliato da Costanza. Opzionale se ti accendono i motori\n[[https://www.ferrari.com/it-IT/museums|🔗 Link]]\n[[https://maps.google.com/?q=44.5301089,10.8610977|🧭 Naviga]]",
+        "address": "Museo Ferrari, Maranello, Italy",
+        "url": "https://www.ferrari.com/it-IT/museums",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9366539,
+          44.6521286
+        ]
+      },
+      "properties": {
+        "name": "Museo Enzo Ferrari (Modena)",
+        "description": "Consigliato da Costanza. Vicino alla stazione di Modena\n[[https://www.ferrari.com/it-IT/museums|🔗 Link]]\n[[https://maps.google.com/?q=44.6521286,10.9366539|🧭 Naviga]]",
+        "address": "Museo Enzo Ferrari, Modena, Italy",
+        "url": "https://www.ferrari.com/it-IT/museums",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3430486,
+          44.4936561
+        ]
+      },
+      "properties": {
+        "name": "Bologna - Piazza Maggiore e Due Torri",
+        "description": "Centro di Bologna\n[[https://maps.google.com/?q=44.4936561,11.3430486|🧭 Naviga]]",
+        "address": "Piazza Maggiore, Bologna, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3448488,
+          44.4933868
+        ]
+      },
+      "properties": {
+        "name": "Bologna - Quadrilatero",
+        "description": "Mercato storico, street food\n[[https://maps.google.com/?q=44.4933868,11.3448488|🧭 Naviga]]",
+        "address": "Mercato di Mezzo, Bologna, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3065709,
+          44.487926
+        ]
+      },
+      "properties": {
+        "name": "Bologna - Portici di San Luca",
+        "description": "Portici UNESCO\n[[https://maps.google.com/?q=44.487926,11.3065709|🧭 Naviga]]",
+        "address": "Portico di San Luca, Bologna, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426396,
+          44.4944457
+        ]
+      },
+      "properties": {
+        "name": "Free Walking Tour Bologna (ritrovo)",
+        "description": "Free walking tour ~2h, tutti i giorni 11:00, paghi quanto vuoi. Guide storiche (Chiara)\n[[https://freewalkingtouritalia.com/it/visite-guidate-gratuite/free-walking-tour-bologna-italiano/|🔗 Link]]\n[[https://maps.google.com/?q=44.4944457,11.3426396|🧭 Naviga]]",
+        "address": "Piazza del Nettuno, Bologna, Italy",
+        "url": "https://freewalkingtouritalia.com/it/visite-guidate-gratuite/free-walking-tour-bologna-italiano/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3430486,
+          44.4936561
+        ]
+      },
+      "properties": {
+        "name": "Bologna Greeters (guida locale volontaria)",
+        "description": "Tour GRATIS con un residente volontario, ~2h, max 6, autentico/personalizzato. Bob: il vecchietto che racconta la citta. Prenota online\n[[https://internationalgreeter.org/destinations/bologna|🔗 Link]]\n[[https://maps.google.com/?q=44.4936561,11.3430486|🧭 Naviga]]",
+        "address": "Piazza Maggiore, Bologna, Italy",
+        "url": "https://internationalgreeter.org/destinations/bologna",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    }
+  ]
+}

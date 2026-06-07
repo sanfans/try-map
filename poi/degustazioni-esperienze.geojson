@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2381764,
+          44.667768
+        ]
+      },
+      "properties": {
+        "name": "Camillo Donati (vini naturali)",
+        "description": "Andrea: il purista/talebano dei vini. Bob: voglio conoscere il tipo pazzo\n[[https://www.camillodonati.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.667768,10.2381764|🧭 Naviga]]",
+        "address": "Camillo Donati, Barbiano, Felino PR, Italy",
+        "url": "https://www.camillodonati.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9076781,
+          44.48606
+        ]
+      },
+      "properties": {
+        "name": "Opera 02 (cantina + acetaia)",
+        "description": "Consigliato da Costanza (provato). Lambrusco + balsamico in uno\n[[https://www.opera02.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.48606,10.9076781|🧭 Naviga]]",
+        "address": "Opera 02, Levizzano, Castelvetro di Modena, Italy",
+        "url": "https://www.opera02.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9432999,
+          44.5034615
+        ]
+      },
+      "properties": {
+        "name": "Cantine Chiarli",
+        "description": "Consigliato da Costanza. Lambrusco Grasparossa + Pignoletto\n[[https://www.chiarli.it/it/visita-in-cantina/|🔗 Link]]\n[[https://maps.google.com/?q=44.5034615,10.9432999|🧭 Naviga]]",
+        "address": "Cantine Chiarli, Castelvetro di Modena, Italy",
+        "url": "https://www.chiarli.it/it/visita-in-cantina/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0436236,
+          44.6776083
+        ]
+      },
+      "properties": {
+        "name": "Cantine Gavioli (Museo Giacobazzi)",
+        "description": "Consigliato da Costanza. Lambrusco + museo\n[[https://gaviolivini.com/it/visita-al-museo|🔗 Link]]\n[[https://maps.google.com/?q=44.6776083,11.0436236|🧭 Naviga]]",
+        "address": "Cantine Gavioli, Nonantola, Italy",
+        "url": "https://gaviolivini.com/it/visita-al-museo",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1430765,
+          44.7098232
+        ]
+      },
+      "properties": {
+        "name": "Monte delle Vigne (aperitivo in vigna)",
+        "description": "Consigliato da Matilde: aperitivo in vigna il GIOVEDI sera. Carino ma da valutare (gio = Bologna)\n[[https://montedellevigne.it/it/aperistreet/|🔗 Link]]\n[[https://maps.google.com/?q=44.7098232,10.1430765|🧭 Naviga]]",
+        "address": "Monte delle Vigne, Ozzano Taro, Collecchio PR, Italy",
+        "url": "https://montedellevigne.it/it/aperistreet/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1582357,
+          44.7813659
+        ]
+      },
+      "properties": {
+        "name": "Caseificio Bertinelli (parmigiano)",
+        "description": "Consenso (curato + Costanza): degustazione verticale 3 stagionature. DA DECIDERE tra qui e 4 Madonne\n[[https://www.bertinelli.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.7813659,10.1582357|🧭 Naviga]]",
+        "address": "Bertinelli, Noceto, Parma, Italy",
+        "url": "https://www.bertinelli.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8814205,
+          44.6838597
+        ]
+      },
+      "properties": {
+        "name": "Caseificio 4 Madonne (parmigiano)",
+        "description": "Costanza (provato) + Felipe ('bel pacchetto turistico'). Bob: anche figo. DA DECIDERE tra qui e Bertinelli\n[[https://www.caseificio4madonne.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.6838597,10.8814205|🧭 Naviga]]",
+        "address": "Caseificio 4 Madonne, Lesignana, Modena, Italy",
+        "url": "https://www.caseificio4madonne.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9262846,
+          44.645869
+        ]
+      },
+      "properties": {
+        "name": "Acetaia Comunale di Modena (balsamico)",
+        "description": "Consigliato da Felipe: in centro, ~2 euro visita guidata + assaggio, autentica. DA DECIDERE (conflitto con Leonardi/Opera 02)\n[[https://maps.google.com/?q=44.645869,10.9262846|🧭 Naviga]]",
+        "address": "Acetaia Comunale, Piazza Grande, Modena, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7966114,
+          44.5979855
+        ]
+      },
+      "properties": {
+        "name": "Acetaia Leonardi (balsamico + corso)",
+        "description": "Balsamico + corso tortellini (richiesta inviata). DA DECIDERE (conflitto con Acetaia Comunale)\n[[https://www.acetaialeonardi.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.5979855,10.7966114|🧭 Naviga]]",
+        "address": "Acetaia Leonardi, Magreta, Italy",
+        "url": "https://www.acetaialeonardi.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426327,
+          44.4938203
+        ]
+      },
+      "properties": {
+        "name": "Corso pasta - From My Kitchen (Grazia)",
+        "description": "Corso pasta a mano in casa: 'Tortellini Legend' EUR125/p o tagliatelle/tortelloni EUR110/p coppia, 3h incl. pranzo+vino. info@frommykitchen.it / +39 335 8380207. Richiesta mandata, in attesa\n[[https://www.frommykitchen.it/|🔗 Link]]\n[[https://maps.google.com/?q=44.4938203,11.3426327|🧭 Naviga]]",
+        "address": "Bologna, Italy",
+        "url": "https://www.frommykitchen.it/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3321198,
+          44.5022924
+        ]
+      },
+      "properties": {
+        "name": "Corso pasta - Bologna PastaLAB",
+        "description": "Corso pasta EUR95/p, 3h (17-20), tagliatelle + tortelloni. NON inviata (Bob: costa tanto)\n[[https://bolognapastalab.com/prodotto/corso-di-pasta/|🔗 Link]]\n[[https://maps.google.com/?q=44.5022924,11.3321198|🧭 Naviga]]",
+        "address": "Via Pier de' Crescenzi 2, 40131 Bologna, Italy",
+        "url": "https://bolognapastalab.com/prodotto/corso-di-pasta/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3424332,
+          44.493536
+        ]
+      },
+      "properties": {
+        "name": "Corso pasta - Piano Piano",
+        "description": "Ristorante + corsi pasta: amatoriale 4h (incl. tortellini). Prezzo via WhatsApp +39 327 8655714\n[[https://pianopianobologna.it/corsi/|🔗 Link]]\n[[https://maps.google.com/?q=44.493536,11.3424332|🧭 Naviga]]",
+        "address": "Piazza Maggiore 5g, 40124 Bologna, Italy",
+        "url": "https://pianopianobologna.it/corsi/",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4231221,
+          44.4981671
+        ]
+      },
+      "properties": {
+        "name": "Corso pasta - Martina / La Salumeria",
+        "description": "Lab di pasta fresca + gastronomia storica (sfoglina doc, girata da Monica di Tortellini & Co). info@la-salumeria.it. Draft email pronto\n[[https://maps.google.com/?q=44.4981671,11.4231221|🧭 Naviga]]",
+        "address": "Via Oberdan, Bologna, Italy",
+        "url": "",
+        "source": "2026-06-01-italia",
+        "added": "2026-06-07"
+      }
+    }
+  ]
+}
