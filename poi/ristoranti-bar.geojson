@@ -450,6 +450,24 @@
         "source": "2026-06-01-italia",
         "added": "2026-06-07"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53883,
+          47.36995
+        ]
+      },
+      "properties": {
+        "name": "TEST — Zeughauskeller (Zürich)",
+        "description": "Pin di prova per verificare l'aggiornamento automatico del layer remoto. Da cancellare.\n[[https://maps.google.com/?q=47.36995,8.53883|🧭 Naviga]]",
+        "address": "Bahnhofstrasse 28a, 8001 Zürich",
+        "url": "",
+        "source": "test",
+        "added": "2026-06-07"
+      }
     }
   ]
 }
