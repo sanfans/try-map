@@ -324,6 +324,24 @@
         "source": "test",
         "added": "2026-06-07"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54214,
+          47.36687
+        ]
+      },
+      "properties": {
+        "name": "TEST 2 — Opernhaus Zürich",
+        "description": "Secondo pin di prova (live update). Da cancellare.\n[[https://maps.google.com/?q=47.36687,8.54214|🧭 Naviga]]",
+        "address": "Falkenstrasse 1, 8008 Zürich",
+        "url": "",
+        "source": "test",
+        "added": "2026-06-07"
+      }
     }
   ]
 }
