@@ -306,6 +306,24 @@
         "source": "2026-06-01-italia",
         "added": "2026-06-07"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.544,
+          47.37033
+        ]
+      },
+      "properties": {
+        "name": "TEST — Grossmünster (Zürich)",
+        "description": "Pin di prova per il layer da-visitare. Da cancellare.\n[[https://maps.google.com/?q=47.37033,8.544|🧭 Naviga]]",
+        "address": "Grossmünsterplatz, 8001 Zürich",
+        "url": "",
+        "source": "test",
+        "added": "2026-06-07"
+      }
     }
   ]
 }
